@@ -17,12 +17,12 @@
   <div>
 
 <!-- Stats Card 2 -->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact"
+<div>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact"
     media="(prefers-color-scheme: dracula)"
     />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact&theme=github_dark" />
-  </picture>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact&theme=github_dark" />
+</div>
 
 <!-- Languages Programming -->
 ##
