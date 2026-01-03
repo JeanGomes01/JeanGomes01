@@ -6,21 +6,34 @@
 
 ---
 
-<!-- Stats Card -->
+
 <div align="center">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=JeanGomes01&show_icons=true&theme=github_dark" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact&theme=github_dark&langs_count=6" />
+</div>
+
+<!-- Stats Card -->
+
+
+
+<!-- <div align="center">
   <a href="https://jean-gomes.vercel.app">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=JeanGomes01&show_icons=true&theme=github_dark" />
   </a>
-</div>
+</div> -->
 
 <br/>
 
 <!-- Stats Card 2 -->
-<div align="center">
+
+
+<!-- <div align="center">
   <img height="200em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact&theme=github_dark&langs_count=6" />
-</div>
+</div> -->
 
 ---
 
