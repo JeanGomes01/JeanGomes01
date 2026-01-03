@@ -6,16 +6,11 @@
 
 ---
 
-
-<div align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=JeanGomes01&show_icons=true&theme=github_dark" />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact&theme=github_dark&langs_count=6" />
-</div>
-
 <!-- Stats Card -->
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JeanGomes01&theme=github-dark&hide_border=true)
 
 
 <!-- <div align="center">
