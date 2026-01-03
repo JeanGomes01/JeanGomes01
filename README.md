@@ -6,29 +6,22 @@
 
 ---
 
-<!-- Stats Card -->
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JeanGomes01&theme=github-dark&hide_border=true)
-
-
-<!-- <div align="center">
-  <a href="https://jean-gomes.vercel.app">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=JeanGomes01&show_icons=true&theme=github_dark" />
-  </a>
-</div> -->
-
-<br/>
-
-<!-- Stats Card 2 -->
-
-
-<!-- <div align="center">
-  <img height="200em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact&theme=github_dark&langs_count=6" />
-</div> -->
+<!-- Stats Card --> 
+<div> 
+  <a href="https://jean-gomes.vercel.app"> 
+    <picture> 
+      <source srcset="https://github-readme-stats.vercel.app/api?username=JeanGomes01&show_icons=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" /> 
+    </picture> 
+  </a> 
+<div> 
+  
+  
+  <!-- Stats Card 2 --> 
+  <div> 
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact" media="(prefers-color-scheme: dracula)" /> 
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGomes01&layout=compact&theme=github_dark" /> 
+  </div>
 
 ---
 
